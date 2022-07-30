@@ -1,7 +1,6 @@
 import './CampoTexto.css'
 
-const Index = (props) => {
-    console.log(props)
+const CampoTexto = (props) => {
     return (
         <div className="campo-texto">
             <label>{props.label}</label>
@@ -10,4 +9,4 @@ const Index = (props) => {
     )
 }
 
-export default Index
+export default CampoTexto

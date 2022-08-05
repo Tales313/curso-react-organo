@@ -1,37 +1,37 @@
-.rodape {
+.footer {
     background-color: #6278F7;
     display: flex;
     justify-content: space-around;
     padding: 32px;
 }
 
-.rodape .redes-sociais {
+.footer .redes-sociais {
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
 
-.rodape .organo-icon {
+.footer .organo-icon {
     display: flex;
     justify-content: center;
 }
 
-.rodape .organo-icon img {
+.footer .organo-icon img {
     transform: scale(0.7);
 }
 
-.rodape .creditos {
+.footer .creditos {
     display: flex;
     justify-content: center;
     align-items: center;
     color: #FFF;
 }
 
-.rodape .redes-sociais img {
+.footer .redes-sociais img {
     width: 16px;
     height: 16px;
 }
 
-.rodape div {
+.footer div {
     width: 20%;
 }

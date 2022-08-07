@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/curso-react-organo/static/css/main.54f6e100.css",
+    "main.js": "/curso-react-organo/static/js/main.4cd90231.js",
+    "index.html": "/curso-react-organo/index.html",
+    "main.54f6e100.css.map": "/curso-react-organo/static/css/main.54f6e100.css.map",
+    "main.4cd90231.js.map": "/curso-react-organo/static/js/main.4cd90231.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54f6e100.css",
+    "static/js/main.4cd90231.js"
+  ]
+}
